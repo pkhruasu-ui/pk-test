@@ -1,0 +1,19 @@
+{
+  "name": "pk-test",
+  "version": "1.0.0",
+  "description": "test npm compilation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pkhruasu-ui/pk-test.git"
+  },
+  "author": "prajak khruasuwan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pkhruasu-ui/pk-test/issues"
+  },
+  "homepage": "https://github.com/pkhruasu-ui/pk-test#readme"
+}
